@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshat Chaudhary</h1>
 <h3 align="center">A passionate developer and engineering student</h3>
 
-- 🔭 I’m currently working on **Cmart**
+- 🔭 I’m currently working on **Cmart** 
 
-- 🌱 I’m currently learning **AI/ML,Python**
+- 🌱 I’m currently learning **AI/ML,Python** , **Learning DSA & Backend more**
 
 - 📫 How to reach me **akshatchaudhary1481@gmail.com**
 
