@@ -9,6 +9,10 @@
   - Developed a **Meeting Summarization Tool** that converts speech to text and generates concise summaries using **OpenAI LLMs** summarizing meetings with investors and stakeholders.
   - Built a **RAG-based chatbot** with document reading capabilities ( reads pdfs ), achieving **98% response accuracy** for internal knowledge queries
 
+- 📊 I also developed a **Finance Agent** that:
+  - **Scrapes financial data** from Yahoo Finance using **DuckDuckGo search integration**
+  - Utilizes an intelligent agent to **structure and present financial insights** based on the user's query
+    
 - 📫 Reach me at **akshatchaudhary1481@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
