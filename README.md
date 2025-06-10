@@ -6,7 +6,7 @@
 
 
 - 💼 I recently interned as a **Data Science Intern at Centricity**, where I:
-  - Developed a **Meeting Summarization Tool** that converts speech to text and generates concise summaries using **OpenAI LLMs**
+  - Developed a **Meeting Summarization Tool** that converts speech to text and generates concise summaries using **OpenAI LLMs** summarizing meetings with investors and stakeholders.
   - Built a **RAG-based chatbot** with document reading capabilities ( reads pdfs ), achieving **98% response accuracy** for internal knowledge queries
 
 - 📫 Reach me at **akshatchaudhary1481@gmail.com**
