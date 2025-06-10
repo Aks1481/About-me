@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akshat Chaudhary</h1>
 <h3 align="center">A passionate developer and engineering student</h3>
 
-- 🔭 I’m currently working on **Cmart** 
 
-- 🌱 I’m currently learning **AI/ML, Python**, and diving deeper into **DSA & Backend Development**
+* 🌱 I’m actively strengthening my expertise in **AI/ML and Python**, while mastering **Data Structures, Algorithms, and Backend Development**.
+
 
 - 💼 I recently interned as a **Data Science Intern at Centricity**, where I:
   - Developed a **Meeting Summarization Tool** that converts speech to text and generates concise summaries using **OpenAI LLMs**
-  - Built a **RAG-based chatbot** with document reading capabilities, achieving **98% response accuracy** for internal knowledge queries
+  - Built a **RAG-based chatbot** with document reading capabilities ( reads pdfs ), achieving **98% response accuracy** for internal knowledge queries
 
 - 📫 Reach me at **akshatchaudhary1481@gmail.com**
 
