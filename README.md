@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Chaudhary</h1>
-<h3 align="center">A passionate developer and engineering student</h3>
+<h3 align="center">A passionate coder and engineering student</h3>
 
 
 * 🌱 I’m actively strengthening my expertise in **AI/ML and Python**, while mastering **Data Structures, Algorithms, and Backend Development**.
